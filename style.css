@@ -1,0 +1,44 @@
+.page-content{
+    padding:20px;
+}
+
+.mdl-card{
+    height:300px;
+    width:300px;
+}
+
+.mdl-card__title{
+    color: #fff;
+}
+
+.chess{
+    background-color: #0aa;
+}
+
+.bridge{
+    background-color: #ff5722;
+}
+
+.circuit{
+    background-color: #181;
+}
+
+.sheet{
+    background-color: #5d0;
+}
+
+.house{
+    background-color: #00d;
+}
+
+.light{
+    background-color: #777;
+}
+
+.weather{
+    background-color: #38f;
+}
+
+.puzzle{
+    background-color: #fa0;
+}
